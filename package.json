@@ -1,8 +1,9 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt-chunks-repro",
   "private": true,
   "type": "module",
   "scripts": {
+    "start": "node index.js",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
